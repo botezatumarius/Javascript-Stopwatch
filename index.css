@@ -1,0 +1,25 @@
+#stopwatch{
+    margin:auto;
+    text-align: center;
+    background-color: rgb(62, 145, 227);
+    width:600px;
+    border:5px solid rgb(2, 97, 191);
+    border-radius:100px;
+}
+
+#time{
+    font-size:75px;
+    color:aquamarine;
+    font-family:consolas,monospace;
+}
+
+.buttons{
+    background-color: rgb(6, 187, 223);
+    font-size:20px;
+    color:aliceblue;
+    width:100px;
+    height:40px;
+    border-radius: 40px;
+    border:2px solid;
+
+}
